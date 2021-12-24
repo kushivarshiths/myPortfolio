@@ -1,0 +1,23 @@
+body{
+    font-family: Verdana,Arial,sans-serif;
+}
+h1{
+   color: white;
+}
+h2:hover{
+    
+    color:black;
+    background-color:whitesmoke;
+    transition :all 500ms ease-in-out;
+}
+h2{
+    color: rgb(255, 255, 255);
+    border-bottom: 4px dotted white;
+}
+p{
+    margin-left:40px;
+    margin-top:20px;
+}
+html{
+    background-color: black;
+}
